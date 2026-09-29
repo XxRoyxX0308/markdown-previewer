@@ -3,7 +3,9 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `markdown-previewer`,
+    title: 'Markdown Previewer',
+    description: 'a markdown previewer',
+    copyright: 'This website is copyright 2024 XxRoyxX',
     siteUrl: `https://www.yourdomain.tld`
   },
   plugins: ["gatsby-plugin-sitemap", {
